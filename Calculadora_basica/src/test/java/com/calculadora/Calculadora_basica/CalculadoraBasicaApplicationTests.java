@@ -1,10 +1,10 @@
-package com.web.airessistemas.Airessistemas;
+package com.calculadora.Calculadora_basica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AiressistemasApplicationTests {
+class CalculadoraBasicaApplicationTests {
 
 	@Test
 	void contextLoads() {
